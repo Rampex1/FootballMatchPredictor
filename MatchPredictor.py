@@ -31,7 +31,6 @@ class FootballPredictor:
             "pkatt"  # Penalty Attempts
         ]
 
-        # Team name mappings for consistency
         self.team_mappings = {
             "Brighton and Hove Albion": "Brighton",
             "Manchester United": "Manchester Utd",
