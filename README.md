@@ -64,7 +64,7 @@ The prediction model considers various factors including:
 
 ## 📈 Performance
 
-The model's performance is evaluated using precision score, which measures the accuracy of predicted wins. The current model achieves a precision score of approximately 0.7 (varies based on training data).
+The model's performance is evaluated using precision score, which measures the accuracy of predicted wins. The current model achieves a precision score of approximately 0.63 (varies based on training data).
 
 ## 🚀 Future Improvements
 
